@@ -66,7 +66,3 @@ python script_name.py
 ```
 
 This will open a window displaying the plots of the activation functions and their derivatives.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
